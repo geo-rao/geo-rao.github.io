@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ncics.org/'>North Carolina Institute for Climate Studies</a>. 
+subtitle: Research Scientist, <a href='https://ncics.org/'>North Carolina Institute for Climate Studies</a>. 
 
 profile:
   align: right

@@ -8,7 +8,7 @@ profile:
   align: right
   image: Rao_NCSU_cropped.jpg
   image_circular: true # crops the image to make it circular
-  job: #
+  job: >
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

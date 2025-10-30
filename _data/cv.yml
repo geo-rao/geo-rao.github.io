@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Yuhan (Douglas) Rao
+      value: Yuhan "Douglas" Rao
     - name: Preferred Name
       value: Douglas Rao
     - name: Languages
@@ -24,9 +24,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Research Scholar
+      institution: NC Institute for Climate Studies, NC State University
+      year: 2025 –
     - title: Research Scientist
       institution: NC Institute for Climate Studies, NC State University
-      year: 2022 –
+      year: 2022 – 2025
     - title: Postdoctoral Research Scholar
       institution: NC Institute for Climate Studies, NC State University
       year: 2019 – 2022

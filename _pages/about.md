@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist, <a href='https://ncics.org/'>North Carolina Institute for Climate Studies</a>. 
+subtitle: Senior Research Scholar, <a href='https://ncics.org/'>North Carolina Institute for Climate Studies</a>. 
 
 profile:
   align: right
@@ -16,18 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a research scientist with the North Carolina Institute for Climate Studies at North Carolina State University. 
-My research focuses on leveraging data science and diverse environmental data to monitor global and regional surface 
-temperature changes and their impact on ecosystems and society. My most recent research uses statistical 
-methods to fill the temperature data gaps caused by the uneven distribution of historical observation networks. 
-While excited about the potential of data science for addressing social issues, I am increasingly interested in 
-understanding how to ensure data science is used in environmental research ethically and responsibly.
+I am a Senior Research Scholar with North Carolina Institute for Climate Studies (NCICS) specializing in artificial intelligence and long-term satellite data records. Since joining NCICS in 2019, my research has focused on improving long-term satellite environmental data records using innovative statistical models, including machine learning. My broad research interests focus on advanced statistical models, satellite data development/validation, land–atmosphere interaction, and applied research for climate and environment monitoring.
 
-Beyond research, I am also actively engaged in national and international communities, including Earth Science Information 
-Partners (ESIP), the American Geophysical Union (AGU), and the Young Earth System Scientists community (YESS). I currently 
-serve as a steering committee member for the Future Earth Project – Analysis, Integration, and Modeling of the Earth System.
+Through Cooperative Institute for Satellite Earth System Studies, I am a founding member of NOAA Center for Artificial Intelligence (NCAI). In support of NCAI, I co-lead the development of data standards and guidelines on AI-ready data for Earth and space science data and workforce development efforts for NOAA. Additionally, I co-chair the annual NOAA AI Workshop that convenes NOAA researchers and partners to advance collaboration around AI research and development in environmental sciences.
 
-Additionally, I am passionate about open science, environmental justice, and community engagement. My interest in community 
-engagement through scientific communication and outreach activities was developed during my time at the University of Maryland. 
-I am constantly working to improve my skills for community engagement and collaborate with partners including scientists from 
-NOAA National Centers for Environmental Information on climate and environmental conservation-related topics.
+I am actively engaged in national and international communities in Earth system science, including Earth Science Information Partners, the American Geophysical Union, and World Climate Research Programme. I currently co-chair the Working Group on Observations for Researching Climate, a working group within the World Climate Research Programme’s Earth System Modeling and Observations core project.
+
+Additionally, I am passionate about open science, community resilience, and community engagement. My interest in community engagement through scientific communication and outreach activities was developed during my time at the University of Maryland as a graduate student. I am constantly working to improve my skills for community engagement and collaborate with partners including scientists from NOAA National Centers for Environmental Information on climate and environmental conservation-related topics.
